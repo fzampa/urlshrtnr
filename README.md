@@ -1,2 +1,2 @@
-# urlshrtnr
-URL Shortner
+# URL Shrtnr
+URL Shortener
